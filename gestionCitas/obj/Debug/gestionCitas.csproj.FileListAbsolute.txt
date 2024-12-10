@@ -1,0 +1,10 @@
+C:\Users\Docente\Desktop\proyectosC#\gestionCitas\gestionCitas\bin\Debug\gestionCitas.exe.config
+C:\Users\Docente\Desktop\proyectosC#\gestionCitas\gestionCitas\bin\Debug\gestionCitas.exe
+C:\Users\Docente\Desktop\proyectosC#\gestionCitas\gestionCitas\bin\Debug\gestionCitas.pdb
+C:\Users\Docente\Desktop\proyectosC#\gestionCitas\gestionCitas\obj\Debug\gestionCitas.csprojResolveAssemblyReference.cache
+C:\Users\Docente\Desktop\proyectosC#\gestionCitas\gestionCitas\obj\Debug\gestionCitas.frmRegistro.resources
+C:\Users\Docente\Desktop\proyectosC#\gestionCitas\gestionCitas\obj\Debug\gestionCitas.Properties.Resources.resources
+C:\Users\Docente\Desktop\proyectosC#\gestionCitas\gestionCitas\obj\Debug\gestionCitas.csproj.GenerateResource.Cache
+C:\Users\Docente\Desktop\proyectosC#\gestionCitas\gestionCitas\obj\Debug\gestionCitas.exe
+C:\Users\Docente\Desktop\proyectosC#\gestionCitas\gestionCitas\obj\Debug\gestionCitas.pdb
+C:\Users\Docente\Desktop\proyectosC#\gestionCitas\gestionCitas\obj\Debug\gestionCitas.frmDetalle.resources
